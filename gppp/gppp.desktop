@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Gnome PPP Dialer
+Name[de]=Gnome DFÜ
+Comment=Gnome PPP Dialer
+Comment[de]=Gnome DFÜ
+Exec=gppp
+Icon=gppp.png
+Terminal=0
+Type=Application

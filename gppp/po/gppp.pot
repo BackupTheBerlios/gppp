@@ -1,0 +1,247 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2001-03-29 00:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: src/accounts.c:13 src/accounts.c:680
+msgid "hour"
+msgstr ""
+
+#: src/accounts.c:13 src/accounts.c:682
+msgid "minute"
+msgstr ""
+
+#: src/accounts.c:13 src/accounts.c:684
+msgid "second"
+msgstr ""
+
+#: src/accounts.c:86
+msgid "Gnome PPP Dialer - Acount Setup"
+msgstr ""
+
+#: src/accounts.c:93
+msgid "General"
+msgstr ""
+
+#: src/accounts.c:94
+msgid " IP "
+msgstr ""
+
+#: src/accounts.c:95
+msgid "DNS"
+msgstr ""
+
+#: src/accounts.c:96
+msgid "Script"
+msgstr ""
+
+#: src/accounts.c:97 src/setup.c:61
+msgid "Misc"
+msgstr ""
+
+#: src/accounts.c:98
+msgid "Costs"
+msgstr ""
+
+#: src/accounts.c:131
+msgid "General Settings:"
+msgstr ""
+
+#: src/accounts.c:135
+msgid "Name of the account:"
+msgstr ""
+
+#: src/accounts.c:136
+msgid "Phonenumber:"
+msgstr ""
+
+#: src/accounts.c:137
+msgid "Username:"
+msgstr ""
+
+#: src/accounts.c:138
+msgid "Password:"
+msgstr ""
+
+#: src/accounts.c:145
+msgid "Save Password"
+msgstr ""
+
+#: src/accounts.c:146
+msgid "Use Login Script"
+msgstr ""
+
+#: src/accounts.c:200
+msgid "IP-Adress Settings:"
+msgstr ""
+
+#: src/accounts.c:206
+msgid "Dynamic IP Address"
+msgstr ""
+
+#: src/accounts.c:208
+msgid "Static IP Address"
+msgstr ""
+
+#: src/accounts.c:211
+msgid "IP-Adresse:"
+msgstr ""
+
+#: src/accounts.c:212
+msgid "Subnet Mask:"
+msgstr ""
+
+#: src/accounts.c:265
+msgid "DNS Settings:"
+msgstr ""
+
+#: src/accounts.c:269
+msgid "Domain Name:"
+msgstr ""
+
+#: src/accounts.c:270
+msgid "Primary DNS Server:"
+msgstr ""
+
+#: src/accounts.c:271
+msgid "Secondary DNS Server:"
+msgstr ""
+
+#: src/accounts.c:272
+msgid "Configuration:"
+msgstr ""
+
+#: src/accounts.c:278
+msgid "automatic"
+msgstr ""
+
+#: src/accounts.c:280
+msgid "manual"
+msgstr ""
+
+#: src/accounts.c:283
+msgid "Disable existing DNS Servers during Connection"
+msgstr ""
+
+#: src/accounts.c:341
+msgid "Script Settings:"
+msgstr ""
+
+#: src/accounts.c:353
+msgid "Add"
+msgstr ""
+
+#: src/accounts.c:354 src/setup.c:102
+msgid "Delete"
+msgstr ""
+
+#: src/accounts.c:427 src/setup.c:267
+msgid "Misc. Settings:"
+msgstr ""
+
+#: src/accounts.c:433
+msgid "1) Execute after Connect:"
+msgstr ""
+
+#: src/accounts.c:434
+msgid "2) Execute after Connect:"
+msgstr ""
+
+#: src/accounts.c:471
+msgid "Cost Settings:"
+msgstr ""
+
+#: src/accounts.c:477
+msgid "Use Cost Calculation"
+msgstr ""
+
+#: src/accounts.c:479
+msgid "Dollar $:"
+msgstr ""
+
+#: src/accounts.c:480
+msgid "per"
+msgstr ""
+
+#: src/gppp_main.c:29
+msgid "Gnome PPP Dialer"
+msgstr ""
+
+#: src/gppp_main.c:36
+msgid "Connect to:"
+msgstr ""
+
+#: src/gppp_main.c:42
+msgid "Connect"
+msgstr ""
+
+#: src/gppp_main.c:43
+msgid "Setup"
+msgstr ""
+
+#: src/gppp_main.c:44
+msgid "Quit"
+msgstr ""
+
+#: src/setup.c:52
+msgid "Gnome PPP Dialer - Setup"
+msgstr ""
+
+#: src/setup.c:59
+msgid "Accounts"
+msgstr ""
+
+#: src/setup.c:60
+msgid "Device"
+msgstr ""
+
+#: src/setup.c:89
+msgid "Accounts Settings:"
+msgstr ""
+
+#: src/setup.c:100
+msgid "New"
+msgstr ""
+
+#: src/setup.c:101
+msgid "Edit"
+msgstr ""
+
+#: src/setup.c:103
+msgid "Copy"
+msgstr ""
+
+#: src/setup.c:183
+msgid "Device Settings:"
+msgstr ""
+
+#: src/setup.c:187
+msgid "Device:"
+msgstr ""
+
+#: src/setup.c:188
+msgid "Flow Control:"
+msgstr ""
+
+#: src/setup.c:189
+msgid "Line Termination:"
+msgstr ""
+
+#: src/setup.c:190
+msgid "Device Speed:"
+msgstr ""
+
+#: src/setup.c:191
+msgid "Volume:"
+msgstr ""

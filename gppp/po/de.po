@@ -1,0 +1,223 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: gppp 0.0\n"
+"POT-Creation-Date: 2000-03-24 15:02-0400\n"
+"PO-Revision-Date: 2000-03-24 HO:MI+ZONE\n"
+"Last-Translator: Jörgen Scheibengruber <mfcn@gmx.de>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/accounts.c:32
+msgid "Gnome PPP Dialer - Acount Setup"
+msgstr "Gnome DFÜ - Account Einstellungen"
+
+#: src/accounts.c:39
+msgid "General"
+msgstr "Allgemeines"
+
+#: src/accounts.c:40
+msgid " IP "
+msgstr " IP "
+
+#: src/accounts.c:41
+msgid "DNS"
+msgstr "DNS"
+
+#: src/accounts.c:42
+msgid "Script"
+msgstr "Skript"
+
+#: src/accounts.c:43 src/setup.c:42
+msgid "Misc"
+msgstr "Misc"
+
+#: src/accounts.c:44
+msgid "Costs"
+msgstr "Kosten"
+
+#: src/accounts.c:73
+msgid "General Settings:"
+msgstr "Allgemeine Einstellungen:"
+
+#: src/accounts.c:77
+msgid "Name of the account:"
+msgstr "Name des Accounts:"
+
+#: src/accounts.c:78
+msgid "Phonenumber:"
+msgstr "Telefonnummer:"
+
+#: src/accounts.c:79
+msgid "Username:"
+msgstr "Benutzername:"
+
+#: src/accounts.c:80
+msgid "Password:"
+msgstr "Passwort:"
+
+#: src/accounts.c:87
+msgid "Save Password"
+msgstr "Passwort speichern"
+
+#: src/accounts.c:88
+msgid "Use Login Script"
+msgstr "Loginskript benutzen"
+
+#: src/accounts.c:138
+msgid "IP-Adress Settings:"
+msgstr "IP-Adressen Einstellungen:"
+
+#: src/accounts.c:144
+msgid "Dynamic IP Address"
+msgstr "Dynamische IP Addresse"
+
+#: src/accounts.c:146
+msgid "Static IP Address"
+msgstr "Statische IP Addresse"
+
+#: src/accounts.c:149
+msgid "IP-Adresse:"
+msgstr "IP-Addresse:"
+
+#: src/accounts.c:150
+msgid "Subnet Mask:"
+msgstr "Subnet Maske:"
+
+#: src/accounts.c:201
+msgid "DNS Settings:"
+msgstr "DNS Einstellungen:"
+
+#: src/accounts.c:205
+msgid "Domain Name:"
+msgstr "Domain Name:"
+
+#: src/accounts.c:206
+msgid "Primary DNS Server:"
+msgstr "Primärer DNS Server:"
+
+#: src/accounts.c:207
+msgid "Secondary DNS Server:"
+msgstr "Sekundärer DNS Server:"
+
+#: src/accounts.c:208
+msgid "Configuration:"
+msgstr "Konfiguration:"
+
+#: src/accounts.c:214
+msgid "automatic"
+msgstr "automatisch"
+
+#: src/accounts.c:216
+msgid "manual"
+msgstr "manuell"
+
+#: src/accounts.c:219
+msgid "Disable existing DNS Servers during Connection"
+msgstr "Existierende DNS Server während der Verb. auskommentieren"
+
+#: src/accounts.c:263
+msgid "Script Settings:"
+msgstr "Skript Einstellungen:"
+
+#: src/accounts.c:278 src/setup.c:204
+msgid "Misc. Settings:"
+msgstr "Versch. Einstellungen:"
+
+#: src/accounts.c:284 src/accounts.c:285
+msgid "Execute after Connect:"
+msgstr "Ausführen nach dem Verbinden:"
+
+#: src/accounts.c:318
+msgid "Cost Settings:"
+msgstr "Kosten Einstellugnen:"
+
+#: src/accounts.c:324
+msgid "Use Cost Calculation"
+msgstr "Benutze Kostenberechnung"
+
+#: src/accounts.c:326
+msgid "Dollar $:"
+msgstr "Mark:"
+
+#: src/accounts.c:327
+msgid "per"
+msgstr "per"
+
+#: src/gppp_main.c:21
+msgid "Gnome PPP Dialer"
+msgstr "Gnome DFÜ"
+
+#: src/gppp_main.c:32
+msgid "Connect"
+msgstr "Verbinden"
+
+#: src/gppp_main.c:33
+msgid "Setup"
+msgstr "Einstellungen"
+
+#: src/gppp_main.c:34
+msgid "Quit"
+msgstr "Beenden"
+
+#: src/setup.c:33
+msgid "Gnome PPP Dialer - Setup"
+msgstr "Gnome DFÜ - Einstellungen"
+
+#: src/setup.c:40
+msgid "Accounts"
+msgstr "Accounts"
+
+#: src/setup.c:41
+msgid "Device"
+msgstr "Modem"
+
+#: src/setup.c:67
+msgid "Accounts Settings:"
+msgstr "Account Einstellungen:"
+
+#: src/setup.c:77
+msgid "New"
+msgstr "Neu"
+
+#: src/setup.c:78
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: src/setup.c:79
+msgid "Delete"
+msgstr "Löschen"
+
+#: src/setup.c:80
+msgid "Copy"
+msgstr "Kopieren"
+
+#: src/setup.c:123
+msgid "Device Settings:"
+msgstr "Modem Einstellungen:"
+
+#: src/setup.c:127
+msgid "Device:"
+msgstr "Modem:"
+
+#: src/setup.c:128
+msgid "Flow Control:"
+msgstr "Flow Control:"
+
+#: src/setup.c:129
+msgid "Line Termination:"
+msgstr "Line Termination:"
+
+#: src/setup.c:130
+msgid "Device Speed:"
+msgstr "Modem Geschwindigkeit:"
+
+#: src/setup.c:131
+msgid "Volume:"
+msgstr "Lautstärke:"
